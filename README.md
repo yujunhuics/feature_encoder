@@ -1077,3 +1077,5 @@ pos embedding：使用pytorch自带的embedding
 ## 结论
 
 本文实践了一种多特征的编码器，在NLP的下游任务上经过测试有性能的提升。注：具体任务具体分析，不一定完全能大幅度提升性能，但是也不会降性能。
+
+完整代码链接：https://github.com/yujunhuics/feature_encoder
